@@ -1,6 +1,7 @@
 # sunflower-syntax theme
 
 **It is material design colors based theme :tophat: for atom-text-editor :octocat: .**
+
 [![version](https://img.shields.io/badge/apm-0.2.0-green.svg?style=flat-square)](https://atom.io/themes/sunflower-syntax) [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)](https://github.com/midhruvjaink/sunflower-syntax) [![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow)](https://github.com/midhruvjaink)
 ![screenshot](http://i.imgur.com/xlcVsGK.png)
 

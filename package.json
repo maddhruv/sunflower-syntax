@@ -1,0 +1,18 @@
+{
+  "name": "sunflower-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "It is material design colors based theme for atom-text-editor.",
+  "keywords": [
+    "syntax",
+    "theme",
+    "atom",
+    "material",
+    "bright"
+  ],
+  "repository": "https://github.com/midhruvjaink/sunflower-syntax",
+  "license": "Apache-2.0",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
